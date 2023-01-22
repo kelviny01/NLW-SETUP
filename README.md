@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](kelviny01.github.io/NLW-SETUP/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nJ8ugxGPrxJ2YRkMfQnL0U/Habits-(e)-(Community)?node-id=75%3A128&t=BVZTNNyiLsF3GZ69-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
