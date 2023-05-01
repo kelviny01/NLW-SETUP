@@ -7,7 +7,7 @@
 body {
   background-color: #09090a;
 
-  overflow-x: hidden;
+  overflow: hidden;
   height: 100vh;
 }
 
@@ -78,7 +78,7 @@ button {
   gap: 48px;
   margin-left: 82px;
 
-  max-width: 250px;
+  max-width: 1290px;
   overflow: auto;
 }
 
@@ -121,5 +121,9 @@ input:checked {
 @media (max-width: 570px) {
   span {
     display: none;
+  }
+  .days {
+    max-width: 250px;
+    overflow: auto;
   }
 }
